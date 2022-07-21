@@ -141,6 +141,7 @@ nav .navbar {
     margin-right: 40px;
     width: 20%;
     height: 15%;
+    border-radius: 50%;
 }
 
 #order {
